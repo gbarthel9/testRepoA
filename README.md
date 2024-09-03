@@ -1,0 +1,2 @@
+# testRepoA
+Testing git submodules
