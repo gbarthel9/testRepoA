@@ -1,0 +1,3 @@
+[submodule "testRepoB"]
+	path = testRepoB
+	url = https://github.com/gbarthel9/testRepoB.git
